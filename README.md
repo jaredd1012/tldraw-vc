@@ -6,3 +6,8 @@
 </div>
 
 This repo contains a very basic example of how to use [tldraw](https://github.com/tldraw/tldraw) in a [Vite](https://vitejs.dev/) app.
+
+### Manual setup
+
+- Install all dependencies with `npm install` 
+- Run `npm run dev` and go to [ http://localhost:5173/](http://localhost:5173/)
